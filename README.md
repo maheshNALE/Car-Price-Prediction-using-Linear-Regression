@@ -1,1 +1,1 @@
-# Car-Price-Prediction-using-Linear-Regression(OLS)
+# Car-Price-Prediction-using-Linear-Regression
