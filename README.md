@@ -1,17 +1,5 @@
 # Car-Price-Prediction-using-Linear-Regression
 
-using System;
-using System.Data;
-using System.Data.SqlClient;
-using System.Web.UI.WebControls;
-using System.Configuration;
-using System.Web.DynamicData;
-
-namespace cascading_dropdownlist
-{
-    public partial class WebForm1 : System.Web.UI.Page
-    {
-        SqlConnection sqlcon = new SqlConnection(ConfigurationManager.ConnectionStrings["con"].ConnectionString);
 
         protected void Page_Load(object sender, EventArgs e)
         {
